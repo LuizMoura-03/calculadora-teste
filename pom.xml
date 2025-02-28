@@ -8,7 +8,7 @@
 		<version>3.4.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.estud</groupId>
+	<groupId>com.exercicio</groupId>
 	<artifactId>calculadora-teste</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>calculadora-teste</name>
